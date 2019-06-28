@@ -71,8 +71,11 @@ body {
 
 #screenshot {
   position: relative;
-  margin-top: -500px;
-  width: 80%;
+  margin-top: -400px;
+  margin-left: 5px;
+  margin-right: 5px;
+
+  width: 95%;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
 }
