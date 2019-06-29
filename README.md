@@ -1,5 +1,11 @@
 # MY/PORTFOLIO
 
+## Main Technology Stack
+
+- HTML
+- CSS
+- JAVASCRIPT
+
 ## SCREENSHOTS
 
 ### HOME PAGE
