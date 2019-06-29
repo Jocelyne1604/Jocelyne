@@ -100,13 +100,25 @@ body {
 
 .icons1 {
   height: 100px;
+  margin-left: -50px;
 }
 .icons2 {
   height: 70px;
+  margin-left: -30px;
 }
 .icons3 {
   height: 80px;
+  margin-left: -115px;
 }
 .icons4 {
+  height: 75px;
+  margin-left: -130px;
+}
+.icons5 {
   height: 80px;
+  margin-left: 20px;
+}
+
+.github {
+  margin-left: -30px;
 }
