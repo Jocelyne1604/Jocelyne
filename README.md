@@ -2,6 +2,14 @@
 
 ## SCREENSHOTS
 
-### LOGIN PAGE
+### HOME PAGE
 
-!["Login Page showing users the app functionality using a progress bar"](https://github.com/shivangna/lhl-final-project/blob/master/Docs/login.png)
+!["Homepage"](https://github.com/Jocelyne1604/Jocelyne/blob/master/imgs/home.png)
+
+### PROJECT SECTION
+
+!["Project section"](https://github.com/Jocelyne1604/Jocelyne/blob/master/imgs/projects.png)
+
+### CONTACT INFO
+
+!["Contact"](https://github.com/Jocelyne1604/Jocelyne/blob/master/imgs/contact.png)
